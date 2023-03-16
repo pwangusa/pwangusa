@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - Love H<sub>2</sub>O , 🍎 and 🍊
 
 ### Tested t2i on M1 natively:
-|Diffusion Bee|Draw Things|Mochi Diffusion|
-|---|---|-------|
-|OK |OK |w/ Neural Engine Fastest|
-|--|===|
+|Diffusion Bee|Draw Things|Mochi Diffusion|Mochi Diffusion|
+|---|---|-------|---|
+|OK |OK |w/GPU OK|w/ Neural Engine Fastest|
+
