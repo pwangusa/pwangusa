@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 -->
 
 -  I’m currently learning AI API 🌱...
-- I am interested in generative music :music: ...
-- I am learning web app with :joy: ...
--  love H~2~O , 🍎 and 🍊
+- I am interested in ==Generative== music 🎵..
+- I am learning web app with 🕹️
+- Love H~2~O , 🍎 and 🍊
+
+Running t2i on M1:
+|Diffusion Bee|Draw Things|Mochi Diffusion|
+|Good|OK|Neural Engine version Very Fast|
