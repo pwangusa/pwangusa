@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - Love H~2~O , 🍎 and 🍊
 
 Running t2i on M1:
-|Diffusion Bee|Draw Things|Mochi Diffusion|
+Table |Diffusion Bee|Draw Things|Mochi Diffusion|
 |Good|OK|Neural Engine version Very Fast|
